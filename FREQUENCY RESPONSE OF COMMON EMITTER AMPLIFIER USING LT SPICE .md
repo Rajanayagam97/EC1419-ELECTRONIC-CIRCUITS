@@ -20,6 +20,7 @@
 ## MODEL GRAPH
 
 <img width="420" height="320" alt="image" src="https://github.com/user-attachments/assets/35db161e-e8a3-4438-a25d-7849c15ee08e" />
+
 <img width="420" height="320" alt="image" src="https://github.com/user-attachments/assets/47c2cdf5-9004-4e0f-89d0-c9eda45cf64c" />
 
 <img width="520" height="416" alt="image" src="https://github.com/user-attachments/assets/c8e67646-bb9d-4bf3-a4c9-6ba57b0d80f3" />
@@ -29,6 +30,7 @@
 
 ## Graph
 ![IMG-20251124-WA0011 1](https://github.com/user-attachments/assets/230de241-986a-4ae8-9f29-c814dda16978)
+<img width="1919" height="979" alt="image" src="https://github.com/user-attachments/assets/1110be45-fed1-4769-a115-53b5369c6a9b" />
 
 
 ## **Result**
