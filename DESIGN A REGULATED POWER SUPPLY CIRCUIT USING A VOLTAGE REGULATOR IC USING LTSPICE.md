@@ -6,9 +6,8 @@
 
 <img width="756" height="368" alt="image" src="https://github.com/user-attachments/assets/aa815e31-1643-4c2b-afda-0c436818087e" />
 
-## Tabulations
-
 ## Graph
+![WhatsApp Image 2025-11-24 at 09 01 55_05911fb3](https://github.com/user-attachments/assets/559c49dc-6f33-452a-bd00-e7f1a644dc5d)
 
 
 <img width="853" height="183" alt="image" src="https://github.com/user-attachments/assets/ee91e1c1-171c-4208-83ee-e61ea1ba626c" />
