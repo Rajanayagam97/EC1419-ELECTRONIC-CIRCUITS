@@ -4,9 +4,8 @@
 <img width="811" height="708" alt="image" src="https://github.com/user-attachments/assets/e0caa2dd-cc57-4642-987f-53e4f8f78903" />
 
 
-## ATTACH THE CORRECT CIRCUIT
-
 ## GRAPHS
+![WhatsApp Image 2025-11-24 at 09 07 02_a9f86466](https://github.com/user-attachments/assets/a5ce7467-e6a2-4af9-b7a7-e1f5c189d018)
 
 
 <img width="936" height="122" alt="image" src="https://github.com/user-attachments/assets/2d2e2399-6a9f-49ec-b40c-3c2982d4b82c" />
